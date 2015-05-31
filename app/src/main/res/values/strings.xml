@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Routofy_test</string>
+
+    <string name="user_name">Praveen</string>
+    <string name="button_text">Technologies</string>
+    <string name="progress_string">Parsing Json Data</string>
+
+    <string name="json">JSON</string>
+    <string name="viewPager">android.support.v4.view.ViewPager</string>
+    <string name="fragmentStatePagerAdapter">android.support.v4.app.FragmentStatePagerAdapter</string>
+    <string name="ListFragment">android.support.v4.app.ListFragment</string>
+    <string name="fragmentManager">android.support.v4.app.FragmentManager</string>
+    <string name="AsyncTask">android.os.AsyncTask</string>
+    <string name="listAdapter">android.widget.ListAdapter</string>
+    <string name="simpleAdapter">android.widget.SimpleAdapter</string>
+    <string name="app">android.app</string>
+    <string name="graphics">android.graphics</string>
+    <string name="view">android.view</string>
+    <string name="http">org.apache.http</string>
+
+</resources>
